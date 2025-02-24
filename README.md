@@ -1,2 +1,0 @@
-# FedGIG
-rebuttal for FedGIG
